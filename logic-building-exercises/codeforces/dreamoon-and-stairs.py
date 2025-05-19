@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/476/A
+#
 """
 Dreamoon wants to climb up a stair of n steps. He can climb 1 or 2 steps at each move. Dreamoon wants the number of moves to be a multiple of an integer m.
 
